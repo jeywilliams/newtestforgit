@@ -8,6 +8,6 @@ public class gittestpractice {
         for (int i = 1; i <100; i++){
             System.out.println(i);
         }
-//4
+//test
     }
 }
